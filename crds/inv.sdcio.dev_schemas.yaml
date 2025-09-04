@@ -143,8 +143,8 @@ spec:
                           maxItems: 64
                           type: array
                         includes:
-                          description: Excludes defines the list of files/directories
-                            to be excluded
+                          description: Includes defines the list of files/directories
+                            to be included
                           items:
                             type: string
                           maxItems: 64
